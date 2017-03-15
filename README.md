@@ -9,5 +9,8 @@ Preprocessing, lung segmentation, and candidate point masking using pretrained L
 ### threshold_node_masking.ipynb
 Alternative strategy for preprocessing, lung segmentation, and candidate point masking (Inspired by <a href="https://www.kaggle.com/arnavkj95/data-science-bowl-2017/candidate-generation-and-luna16-preprocessing">this</a> kernel).
 
+### preprocess.ipynb
+Loading, resampling, lung masks, normalization.
 
-
+### 3d_cnn.ipynb
+Early attempts at 3D convnet
